@@ -1,0 +1,12 @@
+{
+  "preset": "airbnb",
+
+  "disallowQuotedKeysInObjects": "allButReserved",
+  "disallowYodaConditions": null,
+  "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
+  "requireDotNotation": "except_snake_case",
+  "requirePaddingNewLinesAfterBlocks": {
+    "allExcept": ["inCallExpressions", "inArrayExpressions"]
+  },
+  "safeContextKeyword": null
+}
